@@ -1,0 +1,5 @@
+This is a dummy text file used to preserve folder structure in the GitHub repo. 
+
+The file is not used for any purpose otherwise and may be deleted once the repo is unpacked on your computer.
+
+- Digital Design @ Thornton Tomasetti (06/2022)

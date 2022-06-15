@@ -1,0 +1,30 @@
+[
+  {
+    "Severity": "Warning",
+    "Description": "Highlighted floors overlap."
+  },
+  {
+    "Severity": "Warning",
+    "Description": "Highlighted floors overlap."
+  },
+  {
+    "Severity": "Warning",
+    "Description": "There are identical instances in the same place. This will result in double counting in schedules."
+  },
+  {
+    "Severity": "Warning",
+    "Description": "Highlighted elements are joined but do not intersect."
+  },
+  {
+    "Severity": "Warning",
+    "Description": "Highlighted elements are joined but do not intersect."
+  },
+  {
+    "Severity": "Warning",
+    "Description": "Highlighted elements are joined but do not intersect."
+  },
+  {
+    "Severity": "Warning",
+    "Description": "Area separation line is slightly off axis and may cause inaccuracies."
+  }
+]
