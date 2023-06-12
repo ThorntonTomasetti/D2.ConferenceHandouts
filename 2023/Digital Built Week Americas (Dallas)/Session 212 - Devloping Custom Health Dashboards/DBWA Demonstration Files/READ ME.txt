@@ -1,0 +1,20 @@
+There are 3 folders in here:
+* Dynamo Scripts - contains 5 dynamo scripts to run on a Revit Model
+* JSON Outputs - recommended folder structure for Dynamo outputs
+* Sample Revit Files - modified Revit model used for the DBWA lab session example
+
+The Revit Model Diagnostics is a Power BI report template developed by Thornton Tomasetti's CORE design team (formerly Digital Design). This report template was originally featured at the DBWA Conference in Dallas, TX in June 2023.
+
+You should also find 2 Power BI (PBIX files):
+* The 'Master Example' version is already filled in using data from the sample model 
+* The 'Master Template' version is a blank template that can be modified and used with your own data
+
+To load data into this template, please specify:
+(1) the root folder where you store all JSON outputs of the Dynamo scripts (end your input with a \)
+(2) the specific subfolder containing a set of JSON outputs from a specific run (no \ needed)
+
+e.g. if a complete set of outputs is found at: C:\...\JSON Outputs\Project AA12345\20230115
+
+then the parameter values would be:
+source_path = C:\...\JSON Outputs\Project AA12345\20230115
+source_subfolder = 20230115

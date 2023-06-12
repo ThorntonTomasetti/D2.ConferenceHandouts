@@ -1,0 +1,5 @@
+* Successfully running all 5 Dynamo files will result in 18 JSON files.
+* The files should be collected in a single folder within the Project (e.g. use a datestamp for the folder name)
+* You can quickly swap between folders in Power BI (Power Query) using the related parameters
+* Alternatively, you can open two copies of the template pointed at different folders to compare reports
+* The 2023031 contains a complete set of data you can use to skip the Dynamo parts and jump direclty to Power BI

@@ -1,0 +1,92 @@
+[
+  {
+    "Sheet Name": "Plans and Elevations",
+    "Sheet Number": "S-1.0",
+    "Element GUID": "81358b35-c56a-47af-85be-3e9e945c60ff-00026638",
+    "Scale": "As indicated",
+    "Element ID": "157240",
+    "Element Name": "A1 metric",
+    "Family": "A1 metric",
+    "Type": "A1 metric"
+  },
+  {
+    "Sheet Name": "Graphical Column Schedule",
+    "Sheet Number": "S-2.0",
+    "Element GUID": "4b50b624-3213-4043-a30c-ac2eba74ca69-000282b6",
+    "Scale": " 1 : 100",
+    "Element ID": "164534",
+    "Element Name": "A1 metric",
+    "Family": "A1 metric",
+    "Type": "A1 metric"
+  },
+  {
+    "Sheet Name": "Graphical Column Schedule",
+    "Sheet Number": "S-2.1",
+    "Element GUID": "4b50b624-3213-4043-a30c-ac2eba74ca69-000282c5",
+    "Scale": " 1 : 100",
+    "Element ID": "164549",
+    "Element Name": "A1 metric",
+    "Family": "A1 metric",
+    "Type": "A1 metric"
+  },
+  {
+    "Sheet Name": "Graphical Column Schedule",
+    "Sheet Number": "S-2.2",
+    "Element GUID": "4b50b624-3213-4043-a30c-ac2eba74ca69-000282d4",
+    "Scale": " 1 : 100",
+    "Element ID": "164564",
+    "Element Name": "A1 metric",
+    "Family": "A1 metric",
+    "Type": "A1 metric"
+  },
+  {
+    "Sheet Name": "Graphical Column Schedule",
+    "Sheet Number": "S-2.3",
+    "Element GUID": "4b50b624-3213-4043-a30c-ac2eba74ca69-000282e3",
+    "Scale": " 1 : 100",
+    "Element ID": "164579",
+    "Element Name": "A1 metric",
+    "Family": "A1 metric",
+    "Type": "A1 metric"
+  },
+  {
+    "Sheet Name": "Graphical Column Schedule",
+    "Sheet Number": "S-2.4",
+    "Element GUID": "4b50b624-3213-4043-a30c-ac2eba74ca69-000282f2",
+    "Scale": " 1 : 100",
+    "Element ID": "164594",
+    "Element Name": "A1 metric",
+    "Family": "A1 metric",
+    "Type": "A1 metric"
+  },
+  {
+    "Sheet Name": "Graphical Column Schedule",
+    "Sheet Number": "S-2.5",
+    "Element GUID": "4b50b624-3213-4043-a30c-ac2eba74ca69-00028301",
+    "Scale": " 1 : 100",
+    "Element ID": "164609",
+    "Element Name": "A1 metric",
+    "Family": "A1 metric",
+    "Type": "A1 metric"
+  },
+  {
+    "Sheet Name": "Graphical Column Schedule",
+    "Sheet Number": "S-2.6",
+    "Element GUID": "4b50b624-3213-4043-a30c-ac2eba74ca69-00028310",
+    "Scale": " 1 : 100",
+    "Element ID": "164624",
+    "Element Name": "A1 metric",
+    "Family": "A1 metric",
+    "Type": "A1 metric"
+  },
+  {
+    "Sheet Name": "Typical Details",
+    "Sheet Number": "S-3.0",
+    "Element GUID": "2370dbd3-341a-46f4-a944-43c0c5fcd9c3-000283d1",
+    "Scale": "1 : 4",
+    "Element ID": "164817",
+    "Element Name": "E1 30x42 Horizontal 2",
+    "Family": "E1 30x42 Horizontal 2",
+    "Type": "E1 30 x 42 Horizontal1"
+  }
+]
