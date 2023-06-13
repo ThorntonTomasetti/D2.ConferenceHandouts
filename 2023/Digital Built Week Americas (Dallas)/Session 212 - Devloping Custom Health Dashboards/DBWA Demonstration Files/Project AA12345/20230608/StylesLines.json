@@ -1,0 +1,122 @@
+[
+  {
+    "Line Style EID": 71,
+    "Line Style GUID": "74e46f31-7d48-47ee-9207-931708e57a52-00000047",
+    "Line Style Name": "<Insulation Batting Lines>"
+  },
+  {
+    "Line Style EID": 84,
+    "Line Style GUID": "74e46f31-7d48-47ee-9207-931708e57a52-00000054",
+    "Line Style Name": "<Demolished>"
+  },
+  {
+    "Line Style EID": 85,
+    "Line Style GUID": "74e46f31-7d48-47ee-9207-931708e57a52-00000055",
+    "Line Style Name": "<Beyond>"
+  },
+  {
+    "Line Style EID": 80,
+    "Line Style GUID": "74e46f31-7d48-47ee-9207-931708e57a52-00000050",
+    "Line Style Name": "<Medium Lines>"
+  },
+  {
+    "Line Style EID": 244,
+    "Line Style GUID": "74e46f31-7d48-47ee-9207-931708e57a52-000000f4",
+    "Line Style Name": "<Axis of Rotation>"
+  },
+  {
+    "Line Style EID": 86,
+    "Line Style GUID": "74e46f31-7d48-47ee-9207-931708e57a52-00000056",
+    "Line Style Name": "<Centerline>"
+  },
+  {
+    "Line Style EID": 165800,
+    "Line Style GUID": "2370dbd3-341a-46f4-a944-43c0c5fcd9c3-000287a8",
+    "Line Style Name": "CL"
+  },
+  {
+    "Line Style EID": 99563,
+    "Line Style GUID": "20b677a3-e9c5-4bf3-8750-215657a7e4f6-000184eb",
+    "Line Style Name": "<Space Separation>"
+  },
+  {
+    "Line Style EID": 77838,
+    "Line Style GUID": "e2d1a82d-788c-4e19-8f30-74d1e1a43c8f-0001300e",
+    "Line Style Name": "<Hidden Lines>"
+  },
+  {
+    "Line Style EID": 78,
+    "Line Style GUID": "74e46f31-7d48-47ee-9207-931708e57a52-0000004e",
+    "Line Style Name": "<Lines>"
+  },
+  {
+    "Line Style EID": 73,
+    "Line Style GUID": "74e46f31-7d48-47ee-9207-931708e57a52-00000049",
+    "Line Style Name": "<Area Boundary>"
+  },
+  {
+    "Line Style EID": 81,
+    "Line Style GUID": "74e46f31-7d48-47ee-9207-931708e57a52-00000051",
+    "Line Style Name": "<Wide Lines>"
+  },
+  {
+    "Line Style EID": 265451,
+    "Line Style GUID": "f7b8b5fb-6f6a-4e43-88c3-a33ef28cb9a5-00040ceb",
+    "Line Style Name": "<Path of Travel Lines>"
+  },
+  {
+    "Line Style EID": 184693,
+    "Line Style GUID": "ffcb60fe-c632-482c-a273-70f7215d1f65-0002d175",
+    "Line Style Name": "<Fabric Sheets>"
+  },
+  {
+    "Line Style EID": 165802,
+    "Line Style GUID": "2370dbd3-341a-46f4-a944-43c0c5fcd9c3-000287aa",
+    "Line Style Name": "D"
+  },
+  {
+    "Line Style EID": 165798,
+    "Line Style GUID": "2370dbd3-341a-46f4-a944-43c0c5fcd9c3-000287a6",
+    "Line Style Name": "N"
+  },
+  {
+    "Line Style EID": 170964,
+    "Line Style GUID": "2370dbd3-341a-46f4-a944-43c0c5fcd9c3-00029bd4",
+    "Line Style Name": "S"
+  },
+  {
+    "Line Style EID": 72,
+    "Line Style GUID": "74e46f31-7d48-47ee-9207-931708e57a52-00000048",
+    "Line Style Name": "<Sketch>"
+  },
+  {
+    "Line Style EID": 170606,
+    "Line Style GUID": "2370dbd3-341a-46f4-a944-43c0c5fcd9c3-00029a6e",
+    "Line Style Name": "GRAVEL"
+  },
+  {
+    "Line Style EID": 69,
+    "Line Style GUID": "74e46f31-7d48-47ee-9207-931708e57a52-00000045",
+    "Line Style Name": "<Room Separation>"
+  },
+  {
+    "Line Style EID": 83,
+    "Line Style GUID": "74e46f31-7d48-47ee-9207-931708e57a52-00000053",
+    "Line Style Name": "<Hidden>"
+  },
+  {
+    "Line Style EID": 82,
+    "Line Style GUID": "74e46f31-7d48-47ee-9207-931708e57a52-00000052",
+    "Line Style Name": "<Overhead>"
+  },
+  {
+    "Line Style EID": 184692,
+    "Line Style GUID": "ffcb60fe-c632-482c-a273-70f7215d1f65-0002d174",
+    "Line Style Name": "<Fabric Envelope>"
+  },
+  {
+    "Line Style EID": 79,
+    "Line Style GUID": "74e46f31-7d48-47ee-9207-931708e57a52-0000004f",
+    "Line Style Name": "<Thin Lines>"
+  }
+]
